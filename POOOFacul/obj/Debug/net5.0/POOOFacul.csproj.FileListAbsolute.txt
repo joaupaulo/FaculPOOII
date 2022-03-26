@@ -1,0 +1,16 @@
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\bin\Debug\net5.0\POOOFacul.exe
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\bin\Debug\net5.0\POOOFacul.deps.json
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\bin\Debug\net5.0\POOOFacul.runtimeconfig.json
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\bin\Debug\net5.0\POOOFacul.runtimeconfig.dev.json
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\bin\Debug\net5.0\POOOFacul.dll
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\bin\Debug\net5.0\ref\POOOFacul.dll
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\bin\Debug\net5.0\POOOFacul.pdb
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\obj\Debug\net5.0\POOOFacul.csproj.AssemblyReference.cache
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\obj\Debug\net5.0\POOOFacul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\obj\Debug\net5.0\POOOFacul.AssemblyInfoInputs.cache
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\obj\Debug\net5.0\POOOFacul.AssemblyInfo.cs
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\obj\Debug\net5.0\POOOFacul.csproj.CoreCompileInputs.cache
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\obj\Debug\net5.0\POOOFacul.dll
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\obj\Debug\net5.0\ref\POOOFacul.dll
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\obj\Debug\net5.0\POOOFacul.pdb
+C:\Users\JoãoPaulodosSantosSa\source\repos\POOOFacul\POOOFacul\obj\Debug\net5.0\POOOFacul.genruntimeconfig.cache
